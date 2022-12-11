@@ -6,7 +6,11 @@ Put this along with your latest 1.19.2 meteor client build in mods folder of you
 Made in 10 minutes 😁
 
 Does not show up for some reason
-This only works while running through intellij (fixing)
+This only works while running through intellij (fixing)  (Fixed -12/11/22 8:06pm)
+
+Note: Created by a retard but works
+
+
 
 #######################################################################################
 
