@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Main-Class: net.fabricmc.devlaunchinjector.Main
+Class-Path: commons-logging-1.2.jar lwjgl-jemalloc-3.3.1-natives-windows
+ .jar asm-util-9.3.jar meteor-client-0.5.1-SNAPSHOT.jar lwjgl-opengl-3.3
+ .1-natives-windows.jar terminalconsoleappender-1.2.0.jar asm-tree-9.3.j
+ ar mappings.jar error_prone_annotations-2.7.1.jar lwjgl-stb-3.3.1-nativ
+ es-windows.jar slf4j-api-1.8.0-beta4.jar lwjgl-openal-3.3.1-natives-win
+ dows-x86.jar netty-transport-classes-epoll-4.1.77.Final.jar commons-cod
+ ec-1.15.jar fastutil-8.5.6.jar starscript-0.2.2.jar fabric-loader-0.14.
+ 9.jar lwjgl-jemalloc-3.3.1.jar lwjgl-stb-3.3.1.jar netty-resolver-4.1.7
+ 9.Final.jar commons-lang3-3.12.0.jar access-widener-2.1.0.jar netty-tra
+ nsport-native-unix-common-4.1.79.Final.jar lwjgl-glfw-3.3.1-natives-win
+ dows.jar mappings.jar reflections-0.10.2.jar lwjgl-3.3.1.jar guava-31.0
+ .1-jre.jar javabridge-1.2.24.jar jline-reader-3.12.1.jar patchy-2.2.10.
+ jar jsr305-3.0.2.jar httpclient-4.5.13.jar lwjgl-tinyfd-3.3.1-natives-w
+ indows-x86.jar jopt-simple-5.0.4.jar jna-5.10.0.jar dev-launch-injector
+ -0.2.1+build.8.jar netty-buffer-4.1.79.Final.jar lwjgl-opengl-3.3.1.jar
+  commons-io-2.11.0.jar oshi-core-5.8.5.jar failureaccess-1.0.1.jar spon
+ ge-mixin-0.11.4+mixin.0.8.5.jar jline-terminal-3.12.1.jar datafixeruppe
+ r-5.0.28.jar lwjgl-3.3.1-natives-windows-x86.jar lwjgl-3.3.1-natives-wi
+ ndows.jar lwjgl-tinyfd-3.3.1-natives-windows.jar asm-commons-9.3.jar lw
+ jgl-glfw-3.3.1.jar fabric-1.19.2-SNAPSHOT.jar netty-handler-4.1.79.Fina
+ l.jar asm-analysis-9.3.jar lwjgl-opengl-3.3.1-natives-windows-x86.jar l
+ ogging-1.0.0.jar lwjgl-jemalloc-3.3.1-natives-windows-x86.jar listenabl
+ efuture-9999.0-empty-to-avoid-conflict-with-guava.jar orbit-0.2.3.jar l
+ wjgl-openal-3.3.1.jar log4j-api-2.17.0.jar j2objc-annotations-1.3.jar l
+ og4j-slf4j18-impl-2.17.0.jar authlib-3.11.49.jar lwjgl-openal-3.3.1-nat
+ ives-windows.jar java-objc-bridge-1.1.jar fabric-resource-loader-v0-0.6
+ .1+aeb40ebe90.jar netty-transport-4.1.79.Final.jar lwjgl-glfw-3.3.1-nat
+ ives-windows-x86.jar javassist-3.28.0-GA.jar lwjgl-stb-3.3.1-natives-wi
+ ndows-x86.jar commons-compress-1.21.jar log4j-core-2.17.0.jar lwjgl-tin
+ yfd-3.3.1.jar jna-platform-5.10.0.jar netty-codec-4.1.79.Final.jar text
+ 2speech-1.13.9-natives-windows.jar checker-qual-3.12.0.jar brigadier-1.
+ 0.18.jar netty-handler-proxy-4.1.79.Final.jar netty-codec-socks-4.1.79.
+ Final.jar httpcore-4.4.14.jar tiny-remapper-0.8.2.jar netty-codec-http-
+ 4.1.79.Final.jar blocklist-1.0.10.jar text2speech-1.13.9.jar icu4j-70.1
+ .jar netty-common-4.1.79.Final.jar tiny-mappings-parser-0.3.0+build.17.
+ jar asm-9.3.jar minecraft-merged-named.jar gson-2.8.9.jar discord-ipc-1
+ .1.jar
+
