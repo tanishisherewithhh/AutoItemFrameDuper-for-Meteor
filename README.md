@@ -17,7 +17,7 @@ Place this addon together with you meteor client and run latest minecraft versio
 
 Config:
 (For optimum server duping increase destroy time from 50 to about 250 - 400)
-Turn on [always acive] to afk dupe
+Turn on [always active] to afk dupe
 
 
 #######################################################################################
