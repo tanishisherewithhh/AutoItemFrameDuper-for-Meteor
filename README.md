@@ -1,25 +1,6 @@
 
-Actually works now properly
+# UPDATE:
 
-Made in 10 minutes 😁
+### DONT USE THIS ADDON, INSTEAD USE MY NEW [ADDON](https://github.com/tanishisherewithhh/AutoDuperAddon) FOR LATEST VERSIONS
 
-Does not show up for some reason
-This only works while running through intellij (fixing)
-This only works while running through intellij (fixing)  (Fixed -12/11/22 8:06pm)
-
-Note: Created by a retard but works
-
-New Error (Fixed):
-Item inside itemframe wont rotate and would break the itemframe instead
-
-** VERSION: 1.19.2 FABRIC **
-
-How to Use:
-Place this addon together with you meteor client and run latest minecraft version (fabric) 
-
-Config:
-(For optimum server duping increase destroy time from 50 to about 250 - 400)
-Turn on [always active] to afk dupe
-
-
-#######################################################################################
+`Current version supported 1.19.2`
